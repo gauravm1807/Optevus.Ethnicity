@@ -1,0 +1,31 @@
+name: .NET Core Build and Deploy to Azure
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '6.0' # Specify the .NET Core version
+
+    - name: Build with dotnet
+      run: dotnet build Optevus.Ethnicity.sln --configuration Release
+
+    - name: Publish
+      run: dotnet publish Optevus.Ethnicity/Optevus.Ethnicity.csproj -c Release -o ./publish
+
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: 'Optevus.Ethnicity' # Update with your app name
+        slot-name: 'production' # Optional: if you're using deployment slots
+        publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+        package: ./publish
