@@ -1,0 +1,15 @@
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\bin\Debug\net6.0\Optevus.Repositories.deps.json
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\bin\Debug\net6.0\Optevus.Repositories.dll
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\bin\Debug\net6.0\Optevus.Repositories.pdb
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\bin\Debug\net6.0\Optevus.Model.dll
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\bin\Debug\net6.0\Optevus.Model.pdb
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.csproj.AssemblyReference.cache
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.AssemblyInfoInputs.cache
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.AssemblyInfo.cs
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.csproj.CopyComplete
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.dll
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\refint\Optevus.Repositories.dll
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\Optevus.Repositories.pdb
+C:\Users\Gaurav Mawari\OneDrive - Softpath System LLC\Desktop\newnew\Optevus.Ethnicity\Optevus.Repositories\obj\Debug\net6.0\ref\Optevus.Repositories.dll
